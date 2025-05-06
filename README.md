@@ -19,7 +19,13 @@
 
 ### Tools
 
-[![Tools & Frameworks](https://skillicons.dev/icons?i=aws,git,github,postgres,docker,redis,vscode,vim,figma,postman,notion&perline=8)](https://skillicons.dev)
+<!-- 1行目（5つまで） -->
+
+[![AWS, Git, GitHub, Postgres, Docker](https://skillicons.dev/icons?i=aws,git,github,postgres,docker)](https://skillicons.dev)
+
+<!-- 2行目（残り） -->
+
+[![Redis, VSCode, Vim, Figma, Postman, Notion](https://skillicons.dev/icons?i=vscode,vim,figma,postman,notion)](https://skillicons.dev)
 
 </td>
 </tr>
