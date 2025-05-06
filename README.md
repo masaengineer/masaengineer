@@ -1,6 +1,6 @@
 ## Stats & Activities
 
-<img src="https://github.com/user-attachments/assets/2ad1bd7d-180c-4cec-a569-24c445afb171" width="35%">  
+<img src="https://github.com/user-attachments/assets/2ad1bd7d-180c-4cec-a569-24c445afb171" width="25%">  
 <br>
 
 [![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masaengineer&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
