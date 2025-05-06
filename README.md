@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td width="25%">
+<td width="30%">
 <img src="https://github.com/user-attachments/assets/2ad1bd7d-180c-4cec-a569-24c445afb171" width="100%" height="100%">
 </td>
 <td style="vertical-align: bottom;">
