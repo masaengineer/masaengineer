@@ -17,7 +17,7 @@
 
 [![Languages](https://skillicons.dev/icons?i=ruby,rails,html,css,aaa,js,tailwind,jquery,sass,react&perline=5)](https://skillicons.dev)
 
-### Tools
+### Development Environment
 
 [![Tools](https://skillicons.dev/icons?i=aws,git,github,postgresql,mysql,docker,redis,vscode,vim,figma,postman,notion&perline=6)](https://skillicons.dev)
 
