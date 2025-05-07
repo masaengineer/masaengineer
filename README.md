@@ -1,7 +1,8 @@
 ## Portfolio
 ![スクリーンショット 2025-04-25 0 24 11](https://github.com/user-attachments/assets/cd5b6ccc-6b48-4993-b493-ce3356288121)  
 
-[masaengineer/parts-sync-app](https://github.com/masaengineer/parts-sync-app)
+[masaengineer/parts-sync-app](https://github.com/masaengineer/parts-sync-app)  
+<br>
 
 
 ## Stats & Activities
