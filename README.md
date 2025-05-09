@@ -22,7 +22,7 @@
 
 ### Languages & Frameworks
 
-[![Languages](https://skillicons.dev/icons?i=ruby,rails,html,css,aaa,js,tailwind,jquery,sass,react&perline=5)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ruby,rails,html,css,aaa,js,tailwind,sass,react&perline=5)](https://skillicons.dev)
 
 ### Development Environment
 
